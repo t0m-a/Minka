@@ -1,0 +1,7 @@
+.git/
+_worker.js
+schema.sql
+wrangler.toml
+.assetsignore
+README.md
+LICENSE
